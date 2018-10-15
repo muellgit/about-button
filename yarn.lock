@@ -16,9 +16,9 @@
     "@cliqz-oss/firefox-client" "0.3.1"
     es6-promise "^2.0.1"
 
-"@exe-boss/eslint-config@^0.1.0":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@exe-boss/eslint-config/-/eslint-config-0.1.1.tgz#a1e43d9709c18323ec30bdd7f57ebda53721805a"
+"@exe-boss/eslint-config@^0.1.1":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@exe-boss/eslint-config/-/eslint-config-0.1.2.tgz#1541033efdf3769db08d902c63b332a867f5f685"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -42,9 +42,9 @@
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@types/events/-/events-1.2.0.tgz#81a6731ce4df43619e5c8c945383b3e62a89ea86"
 
-"@types/firefox-webext-browser@*":
-  version "58.0.3"
-  resolved "https://registry.yarnpkg.com/@types/firefox-webext-browser/-/firefox-webext-browser-58.0.3.tgz#37f4795ebf4b1ec6c7e7cab1e4d0d4441fc3f34e"
+"@types/firefox-webext-browser@>=63.0.2":
+  version "63.0.2"
+  resolved "https://registry.yarnpkg.com/@types/firefox-webext-browser/-/firefox-webext-browser-63.0.2.tgz#2fa10510928a5a7d4a9352eb5544d40e5e26c4f5"
 
 "@types/glob-stream@*":
   version "6.1.0"
@@ -2730,9 +2730,9 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
-hyperhtml@^2.11.2:
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/hyperhtml/-/hyperhtml-2.13.0.tgz#6eb43fc3dfdd0775374d0b80bb990b05aeba2213"
+hyperhtml@^2.13.0:
+  version "2.14.0"
+  resolved "https://registry.yarnpkg.com/hyperhtml/-/hyperhtml-2.14.0.tgz#a31879ba55c278b58c320dbb9ec08355a8c23df6"
   dependencies:
     lightercollective "^0.1.0"
 
