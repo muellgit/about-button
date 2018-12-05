@@ -32,7 +32,7 @@
 		"gulp-cli": "^2.0.1",
 		"gulp-delete-lines": "^0.0.7",
 		"gulp-eslint": "^5.0.0",
-		"gulp-json-editor": "^2.4.1",
+		"gulp-json-editor": "^2.4.4",
 		"gulp-replace": "^1.0.0",
 		"hyperhtml": "^2.13.0",
 		"merge-stream": "^1.0.1",
